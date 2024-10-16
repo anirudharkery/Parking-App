@@ -1,6 +1,22 @@
-# map
+# ParkEase: Smart Parking Locator
 
-A new Flutter project.
+ParkEase is a Flutter-based mobile application designed to simplify the often frustrating process of finding parking in busy urban areas. By leveraging real-time data and user input, ParkEase helps drivers quickly locate available parking spots, saving time and reducing traffic congestion.
+Key Features:
+
+Real-time parking availability information
+Interactive map showing nearby parking locations
+Filter options for parking type (street, garage, lot)
+Navigation integration to guide users to chosen parking spot
+User-contributed data on newly available spots
+
+Technologies Used:
+
+Flutter for cross-platform mobile development
+OpenStreetMap for mapping and location services
+Firebase Realtime Database for storing parking data
+Firebase Cloud Messaging for push notifications
+HTTP package for API requests
+flutter_map package for map visualization
 
 ## Getting Started
 
